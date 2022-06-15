@@ -1,0 +1,3 @@
+*.o
+minux.iso
+iso/boot/minux
